@@ -1,0 +1,15 @@
+{
+  "name": "wood-kafka",
+  "version": "1.0.1",
+  "description": "kafka client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "kafka",
+    "client"
+  ],
+  "author": "huangyong",
+  "license": "MIT"
+}
